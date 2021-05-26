@@ -15,27 +15,27 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "3770626"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "0a9e14838331cac2e1d10cf0adeb7fe6"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "1830730947:AAE4KlkHIXBbU_5ikjdG3UALVJc1G5yZ_Ts"
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": ""
+      "value": "-1001495139034"
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
-      "value": ""
+      "value": "@infobackup"
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "722981146"
     },
     "SKIP_NO": {
       "description": "Enter File Skiping Number",
@@ -43,7 +43,7 @@
     },
     "CAPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
-      "required": false
+      "value": "@MalRok"
     },
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
