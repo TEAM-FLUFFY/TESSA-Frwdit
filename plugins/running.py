@@ -18,11 +18,11 @@ async def run(bot, message):
     if str(message.from_user.id) not in Config.OWNER_ID:
         return
     buttons = [[
-        InlineKeyboardButton('🚫 STOP', callback_data='stop_btn')
+        InlineKeyboardButton('🚫 HACKING STOP', callback_data='stop_btn')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     m = await bot.send_message(
-        text="<i>File Forwording Started😉</i>",
+        text="<i>HACKING FILES STARTED👿👿</i>",
         reply_markup=reply_markup,
         chat_id=message.chat.id
     )
@@ -54,7 +54,7 @@ async def run(bot, message):
             pass
    # await m.delete()
     buttons = [[
-        InlineKeyboardButton('📜 Support Group', url='https://t.me/cinemapranthanmaar')
+        InlineKeyboardButton('📜 Support Group', url='https://t.me/ADHOLOKAMHD')
     ]] 
     reply_markup = InlineKeyboardMarkup(buttons)
     await m.edit(
