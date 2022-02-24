@@ -1,7 +1,7 @@
 {
-  "name": "Auto-Forward-Bot",
+  "name": "TESSA-Frwdit",
   "description": "Telegram's Best Smart Plugin File Forward Bot",
-  "logo": "https://telegra.ph/file/f0fc1ca20e08d638195b9.jpg",
+  "logo": "https://telegra.ph/file/21826417ea2b9d2639008.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -9,33 +9,33 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/shijilraj",
-  "website": "https://github.com/Sh-Jil/Forwardit",
-  "repository": "https://github.com/Sh-Jil/Forwardit",
+  "success_url": "https://t.me/TEAM_KERALA",
+  "website": "https://github.com/TEAM-FLUFFY/AH-Frwdit",
+  "repository": "https://github.com/TEAM-FLUFFY/AH-Frwdit",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": "3770626"
+      "value": "19143782"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": "0a9e14838331cac2e1d10cf0adeb7fe6"
+      "value": "43176648b57c393328f832939efb72da"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": "1830730947:AAE4KlkHIXBbU_5ikjdG3UALVJc1G5yZ_Ts"
+      "value": "5210591726:AAHW60KbWZFv4kLakB9-Pq6J-O4FW-zs6QA"
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": "-1001495139034"
+      "value": "-1001512324345"
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
-      "value": "@koreanmovieshub"
+      "value": "@inlinedb"
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": "722981146"
+      "value": "5188332572"
     },
     "SKIP_NO": {
       "description": "Enter File Skiping Number",
@@ -43,14 +43,14 @@
     },
     "CAPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
-      "value": "@MalRok"
+      "value": "HACKING....👿👿"
     },
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
       "value": "document"
     },
     "SESSION": {
-      "description": "Pyrogram string Seccion https://replit.com/@ShJil/PyroSessionString",
+      "description": "Pyrogram string Seccion https://replit.com/@ATHIF-EFX/PyroSessionString-3#main.py",
       "value": ""
     }
   },
